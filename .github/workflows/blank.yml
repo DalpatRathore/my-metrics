@@ -19,17 +19,15 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.MY_METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: dalpatrathore
           template: classic
           base: header, activity, community, repositories, metadata
-          config_octicon: yes
-          config_padding: 10, 8 + 11%
           config_timezone: Asia/Calcutta
-          config_twemoji: yes
           plugin_discussions: yes
+          plugin_discussions_categories: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -48,3 +46,5 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          
+        
