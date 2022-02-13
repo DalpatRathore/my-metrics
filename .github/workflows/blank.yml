@@ -25,7 +25,10 @@ jobs:
           user: dalpatrathore
           template: classic
           base: header, activity, community, repositories, metadata
+          config_octicon: yes
+          config_padding: 10, 8 + 11%
           config_timezone: Asia/Calcutta
+          config_twemoji: yes
           plugin_discussions: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
