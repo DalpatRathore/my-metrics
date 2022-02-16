@@ -1,4 +1,4 @@
 # My GitHub Metrics
 ![Metrics](/github-metrics.svg)
 <br>
-![metrics.plugin.pagespeed.svg]
+![Web Performance](metrics.plugin.pagespeed.svg)
