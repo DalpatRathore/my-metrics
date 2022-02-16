@@ -25,7 +25,6 @@ jobs:
           user: dalpatrathore
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 20, 8 + 11%
           config_timezone: Asia/Calcutta
           plugin_discussions: yes
           plugin_discussions_categories: yes
@@ -43,6 +42,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
