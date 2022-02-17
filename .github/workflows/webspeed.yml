@@ -15,6 +15,7 @@ jobs:
           # Current configuration doesn't require a GitHub token
           filename: metrics.plugin.pagespeed.svg
           token: NOT_NEEDED
+          
 
           # Options
           user: dalpatrathore
@@ -22,4 +23,5 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: https://dalpatrathoredev.web.app/
+          plugin_pagespeed_token: ${{ secrets.My_PAGE_SPEED }}
