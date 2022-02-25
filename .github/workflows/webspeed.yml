@@ -16,6 +16,7 @@ jobs:
         with:
           # Current configuration doesn't require a GitHub token
           filename: metrics.plugin.pagespeed.svg
+          token: NOT_NEEDED
                
 
           # Options
