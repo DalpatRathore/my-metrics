@@ -4,7 +4,7 @@ on:
   # Schedule updates (each hour)
   # schedule: [{cron: "0 * * * *"}]
   # Schedule updates (At 5:40 IST)
-  schedule: [{cron: "05 0 * * *"}]
+  schedule: [{cron: "10 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
