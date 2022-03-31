@@ -20,4 +20,4 @@ jobs:
           base: ""
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.MY_TWITTER_TOKEN }}
-          plugin_tweets_user: github
+          plugin_tweets_user: ingenuity_brain
