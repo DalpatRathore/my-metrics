@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: MyMetrics
 on:
   # Schedule updates (At 5:35 IST & 0:05 UTC)
   schedule: [{cron: "05 0 * * *"}]
