@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: MyTweets
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -21,3 +21,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.MY_TWITTER_TOKEN }}
           plugin_tweets_user: ingenuity_brain
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 1
+  
+  
