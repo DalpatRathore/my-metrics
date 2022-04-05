@@ -22,6 +22,11 @@
                             ingenuity_brain
                         </div>
                         <div class="tweet">
+                            <span class="mention">@kirillinoz</span>
+                            Impressive explanation!
+                            <div class="date">09:05:31 on 5 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@elonmusk</span>
                             <span class="mention">@Erdayastronaut</span>
                             Resoundingly Reasonable - Edit available for minutes and marked edited, if done!
@@ -29,11 +34,6 @@
                             <br />
                             High Time - Passive to Active Stake!
                             <div class="date">06:10:02 on 5 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@accolades_dev</span>
-                            UI/UX interdependent yet different!
-                            <div class="date">05:59:23 on 5 Apr 2022</div>
                         </div>
                     </section>
                 </div>
