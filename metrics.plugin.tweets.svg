@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="296" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             ingenuity_brain
                         </div>
                         <div class="tweet">
+                            <span class="mention">@sulamitaivanov</span>
+                            Very Impressive!✨
+                            <div class="date">10:29:30 on 7 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@SeekMastery</span>
                             Those are very worthy and very valuable life lessons in one-liners.
                             <br />
@@ -34,11 +39,6 @@
                             <br />
                             Try to follow as many as I can!🚀🚀🚀
                             <div class="date">13:54:47 on 6 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@clemmihai</span>
-                            Feedbacks are very fundamental and very valuable, helps you move from Good to Better, and eventually Best!
-                            <div class="date">13:47:41 on 6 Apr 2022</div>
                         </div>
                     </section>
                 </div>
