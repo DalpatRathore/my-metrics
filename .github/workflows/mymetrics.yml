@@ -2,7 +2,7 @@
 name: MyMetrics
 on:
   # Schedule updates (At 5:35 IST & 0:05 UTC)
-  schedule: [{cron: "01 0 * * *"}]
+  schedule: [{cron: "05 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -19,7 +19,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.MY_METRICS_TOKEN }}
+          token: ${{ secrets.mymetrics }}
 
           # Options
           user: dalpatrathore
