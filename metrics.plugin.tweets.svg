@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="177" class="">
     <defs>
         <style/>
     </defs>
@@ -22,9 +22,14 @@
                             ingenuity_brain
                         </div>
                         <div class="tweet">
-                            <span class="mention">@madzadev</span>
-                            Visual Studio (C#)
-                            <div class="date">17:18:53 on 4 Aug 2022</div>
+                            <span class="mention">@ChrisStaud</span>
+                            JavaScript 🚀🚀🚀
+                            <div class="date">16:41:18 on 10 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@MakadiaHarsh</span>
+                            Thanks for sharing.
+                            <div class="date">16:38:17 on 10 Aug 2022</div>
                         </div>
                     </section>
                 </div>
