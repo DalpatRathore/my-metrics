@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="327" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,17 @@
                             ingenuity_brain
                         </div>
                         <div class="tweet">
+                            🎯 Hooks Hack
+                            <br />
+                            - use only at the top level of the component or within other Hooks.
+                            <br />
+                            - should not be used conditionally inside the component.
+                            <br />
+                            - always start with the word "use" followed by the name of the Hook.
+                            <a href="https://t.co/eukWunBE6X" class="link">twitter.com/adrianlica20/s…</a>
+                            <div class="date">05:58:47 on 12 May 2023</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@yadavajay</span>
                             : You can:
@@ -35,22 +46,6 @@
                             <br />
                             - Change your career at…
                             <div class="date">05:51:20 on 12 May 2023</div>
-                        </div>
-                        <div class="tweet">
-                            1. Propel - project management tool.
-                            <br />
-                            2. Seek - career development platform.
-                            <br />
-                            3. Xembly - manipulate XML data
-                            <br />
-                            4. Viable - product feedback tool
-                            <br />
-                            5. Volley -  content creation platform
-                            <br />
-                            <br />
-                            ~ Now you Know🚀🚀🚀
-                            <a href="https://t.co/jcAsQa3rM1" class="link">twitter.com/yadavajay/stat…</a>
-                            <div class="date">05:43:50 on 12 May 2023</div>
                         </div>
                     </section>
                 </div>
