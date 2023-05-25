@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
     <defs>
         <style/>
     </defs>
@@ -22,17 +22,25 @@
                             ingenuity_brain
                         </div>
                         <div class="tweet">
-                            <span class="mention">@tapasadhikary</span>
-                            Programming!
-                            <div class="date">05:06:41 on 24 May 2023</div>
+                            Vanilla CSS - strong fundamental knowledge
+                            <br />
+                            Tailwind CSS - big projects
+                            <br />
+                            Bootstrap - small projects
+                            <a href="https://t.co/YVZkUTbhHx" class="link">twitter.com/csaba_kissi/st…</a>
+                            <div class="date">05:04:51 on 25 May 2023</div>
                         </div>
                         <div class="tweet">
-                            Suffering can also act as a catalyst for growth, transformation, &amp; the realization of our greatest potential. By embracing opportunities that arise from adversity, we can navigate the path toward resilience &amp; a life that aligns with our deepest aspirations.
+                            <span class="mention">@RubiosAlba</span>
+                            <span class="mention">@SeemaRatadiya</span>
+                            In the realm of prose, a poem gracefully unfolds
                             <br />
+                            With rhythm and cadence, its beauty it holds
                             <br />
-                            Kudos👏🙏 KEEP GOING
-                            <a href="https://t.co/RoI9i75QTp" class="link">twitter.com/chasemacaluso/…</a>
-                            <div class="date">05:05:01 on 24 May 2023</div>
+                            In the tapestry of time, let heart unfurl
+                            <br />
+                            Through the symphony of words, beauty does swirl.
+                            <div class="date">05:02:26 on 25 May 2023</div>
                         </div>
                     </section>
                 </div>
