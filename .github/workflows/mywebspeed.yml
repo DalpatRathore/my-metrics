@@ -23,5 +23,5 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://dalpatrathore.vercel.app/
+          plugin_pagespeed_url: https://dalpatrathore.vercel.app
           plugin_pagespeed_token: ${{ secrets.MY_WEB_TOKEN }}
