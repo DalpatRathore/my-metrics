@@ -13,8 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
       
         with:
-          filename: metrics.plugin.lines.history.svg
-         
+          filename: metrics.plugin.lines.history.svg 
           token: ${{ secrets.MY_METRICS_TOKEN  }}
           base: ""
           plugin_lines: yes
