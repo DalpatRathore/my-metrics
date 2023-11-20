@@ -14,12 +14,12 @@ jobs:
       
         with:
           # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          token: ${{ secrets.MY_TWITTER_ACCESS_TOKEN }}
           filename: metrics.plugin.tweets.svg
 
           base: ""
           plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.MY_TWITTER_TOKEN }}
+          plugin_tweets_token: ${{ secrets.MY_TWITTER_SECRET_TOKEN }}
           plugin_tweets_user: ingenuity_brain
           plugin_tweets_limit: 2
   
