@@ -15,7 +15,7 @@ jobs:
         with:
           filename: metrics.plugin.lines.history.svg 
           token: ${{ secrets.MY_METRICS_TOKEN  }}
-          base: ""
+          base: repositories, history
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_sections: repositories, history
