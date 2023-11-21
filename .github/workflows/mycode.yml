@@ -22,8 +22,6 @@ jobs:
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
           repositories_skipped: |
-            @use.patterns
-            */*
-            +DalpatRathore/my-metrics
+          
   
   
