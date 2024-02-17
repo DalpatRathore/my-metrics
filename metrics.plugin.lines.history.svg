@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">DalpatRathore/dogs-web</span>
+                            <span class="diff-handle">DalpatRathore/chrome-extensions-docket</span>
                         </div>
                     </section>
                     <section>
@@ -48,8 +48,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +98.4k</span>
-                                <span class="deleted"> -50.8k</span>
+                                <span class="added"> +40.5k</span>
+                                <span class="deleted"> -40.5k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -103,15 +103,15 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,38.877151111669384)">
+                            <g class="tick" opacity="1" transform="translate(0,34.75326711970727)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,72.91810074111292)">
+                            <g class="tick" opacity="1" transform="translate(0,70.16884474647152)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,106.95905037055647)">
+                            <g class="tick" opacity="1" transform="translate(0,105.58442237323574)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
@@ -119,21 +119,21 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,175.04094962944356)">
+                            <g class="tick" opacity="1" transform="translate(0,176.41557762676425)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,209.08189925888706)">
+                            <g class="tick" opacity="1" transform="translate(0,211.8311552535285)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,243.12284888833062)">
+                            <g class="tick" opacity="1" transform="translate(0,247.24673288029274)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L128.333,140.5L137.267,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L217.667,140.5L235.533,140.5L244.467,140.5L280.2,140.5L333.8,140.5L342.733,140.5L423.133,140.5L432.067,140.5L441,140.5L441,140.466L432.067,140.398L423.133,140.398L342.733,108.672L333.8,63.295L280.2,31.007L244.467,64.282L235.533,140.347L217.667,140.432L199.8,139.904L190.867,137.266L181.933,137.164L173,5L164.067,104.349L155.133,139.087L137.267,140.364L128.333,140.415L39,140.449Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L128.333,140.5L137.267,140.5L155.133,140.5L164.067,140.5L173,140.5L181.933,140.5L190.867,140.5L199.8,140.5L217.667,140.5L235.533,140.5L244.467,140.5L280.2,140.5L333.8,140.5L342.733,140.5L423.133,140.5L432.067,140.5L441,140.5L441,140.534L432.067,140.636L423.133,140.602L342.733,143.053L333.8,142.713L280.2,142.815L244.467,140.517L235.533,140.67L217.667,140.551L199.8,141.828L190.867,143.223L181.933,144.159L173,146.695L164.067,141.079L155.133,141.555L137.267,140.619L128.333,140.585L39,140.534Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L128.333,140.5L137.267,140.5L155.133,140.5L164.067,140.5L173,140.5L199.8,140.5L217.667,140.5L235.533,140.5L244.467,140.5L333.8,140.5L423.133,140.5L432.067,140.5L441,140.5L441,140.465L432.067,140.394L423.133,140.394L333.8,136.764L244.467,61.205L235.533,140.341L217.667,140.429L199.8,139.88L173,5L164.067,102.889L155.133,139.19L137.267,140.358L128.333,140.411L39,140.447Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L128.333,140.5L137.267,140.5L155.133,140.5L164.067,140.5L173,140.5L199.8,140.5L217.667,140.5L235.533,140.5L244.467,140.5L333.8,140.5L423.133,140.5L432.067,140.5L441,140.5L441,140.535L432.067,140.642L423.133,140.606L333.8,142.784L244.467,140.518L235.533,140.677L217.667,140.553L199.8,141.881L173,144.254L164.067,141.102L155.133,140.783L137.267,140.624L128.333,140.589L39,140.535Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
