@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: MyWebSpeed
 on:
-  # Schedule updates (At every mmonth)
- schedule: [{cron: "0 0 1 * *"}]
+  # Schedule updates (At every month)
+  schedule: [{cron: "0 0 1 * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
